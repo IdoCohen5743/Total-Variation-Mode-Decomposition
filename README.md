@@ -41,12 +41,11 @@ code_submission 	# code and data together
 ```
 
 ## Run algorithm
-(EXAMPLE1)
 ```bash
 # Run toy example experiment
 fast_experiment1D_final
 ```
-(EXAMPLE2)
+
 ```bash
 # Run zebra row experiment
 fast_experiment2D_zebra_final
