@@ -70,14 +70,25 @@ The above mentioned long times are due to usage of standard method for computing
 ## Citation
 If you find our work useful, please cite our paper:
 ```bash
-@inproceedings{cohen2020Total,
-  title={Total-Variation Mode Decomposition},
-  author={Cohen, Ido and Berkov, Tom and Gilboa, Guy},
-  booktitle={International Conference on Scale Space and Variational Methods in Computer Vision},
-  note={To appear.},
-  year={2021},
-  organization={Springer}
+@InProceedings{10.1007/978-3-030-75549-2_5,
+author="Cohen, Ido
+and Berkov, Tom
+and Gilboa, Guy",
+editor="Elmoataz, Abderrahim
+and Fadili, Jalal
+and Qu{\'e}au, Yvain
+and Rabin, Julien
+and Simon, Lo{\"i}c",
+title="Total-Variation Mode Decomposition",
+booktitle="Scale Space and Variational Methods in Computer Vision",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="52--64",
+isbn="978-3-030-75549-2"
 }
+
+
 ```
 
 Feel free to place issues here or contact me via the e-mail in my personal page.
