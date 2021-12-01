@@ -47,6 +47,12 @@ fast_experiment1D_final
 ```
 
 ```bash
+
+# For fast gradient calculation run
+subgradient.m
+```
+
+```bash
 # Run zebra row experiment
 fast_experiment2D_zebra_final
 ```
@@ -87,7 +93,14 @@ address="Cham",
 pages="52--64",
 isbn="978-3-030-75549-2"
 }
+and
 
+@article{cohen2021total,
+  title={Total-Variation Mode Decomposition},
+  author={Cohen, Ido and Berkov, Tom and Gilboa, Guy},
+  journal={arXiv preprint arXiv:2105.10044},
+  year={2021}
+}
 
 ```
 
