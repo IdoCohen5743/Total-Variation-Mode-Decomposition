@@ -4,10 +4,10 @@ In this work we analyze the Total Variation (TV) flow applied to one dimensional
 Mode Decomposition (DMD), a dimensionality reduction method based on the Koopman operator, and the spectral TV decomposition. DMD is
 adapted by time rescaling to fit linearly decaying processes, such as the TV flow. For the flow with finite subgradient transitions, a closed form 10 solution of the rescaled DMD is formulated. In addition, a solution to the TV-flow is presented, which relies only on the initial condition and its corresponding subgradient. A very fast numerical algorithm is obtained which solves the entire flow by elementary subgradient updates.
 
-<p align="center"><img src="https://i.imgur.com/7VbdaoN.png"|height=250></p>
+<p align="center"><img src="https://i.imgur.com/7VbdaoN.png"></p>
 TV flow decomposed into nonlinear modes (using time-rescaled-DMD):
 
-<p align="center"><img src="https://i.imgur.com/UKDQt6Z.png"|height=140></p>
+<p align="center"><img src="https://i.imgur.com/UKDQt6Z.png"></p>
 
 Comparison of original TV flow vs. Time-Rescaled TV flow:
 <p align="center"><img src="https://i.imgur.com/6Q5hDU4.gif"></p>
