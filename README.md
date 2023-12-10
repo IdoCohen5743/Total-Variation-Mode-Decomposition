@@ -9,9 +9,7 @@ adapted by time rescaling to fit linearly decaying processes, such as the TV flo
 </p>
 TV flow decomposed into nonlinear modes (using time-rescaled-DMD):
 
-<p align="center">
-	<img src="https://i.imgur.com/UKDQt6Z.png" | height=140 >
-</p>
+<p align="center"><img src="https://i.imgur.com/UKDQt6Z.png" | height=140 ></p>
 
 Comparison of original TV flow vs. Time-Rescaled TV flow:
 <p align="center">
