@@ -1,4 +1,3 @@
-# Total Variation Mode Decomposition
 Code repository for our version of ["Total Variation Mode Decomposition"](https://link.springer.com/chapter/10.1007/978-3-030-75549-2_5) by [Ido Cohen](https://idocohen.co.il/), [Tom Berkov](https://www.vision-and-sensing.com/copy-of-jonathan-brokman), [Guy Gilboa](https://guygilboa.net.technion.ac.il/), at Technion - Israel Institute of Technology. [Download](https://github.com/IdoCohen5743/Total-Variation-Mode-Decomposition/archive/refs/heads/main.zip)
 
 In this work we analyze the Total Variation (TV) flow applied to one dimensional signals. We formulate a relation between Dynamic
